@@ -1,0 +1,54 @@
+.clock-name{
+    color: cornflowerblue;
+    margin: 2px;
+    cursor: pointer;
+}
+
+.designer{
+    margin: 2px;
+    cursor: pointer;
+}
+
+.company{
+    margin: 2px;
+    color: green;
+    cursor: pointer;
+}
+
+.shipping{
+    margin: 2px;
+    opacity: 0.6;
+}
+
+.shoping-card{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.clock-img{
+    width: 6%;
+    height: 2%;
+}
+
+.product-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.button-delete-save{
+    color: cornflowerblue;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.saved-later-item{
+   display: flex;
+}
+
+.saved-for-later{
+    margin-top: 40px;
+}
